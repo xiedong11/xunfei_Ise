@@ -1,0 +1,312 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\work\xunfei\MyApplication\speechDemo\src\main\AndroidManifest.xml:2:1-114:12
+INJECTED from E:\work\xunfei\MyApplication\speechDemo\src\main\AndroidManifest.xml:2:1-114:12
+INJECTED from E:\work\xunfei\MyApplication\speechDemo\src\main\AndroidManifest.xml:2:1-114:12
+INJECTED from E:\work\xunfei\MyApplication\speechDemo\src\main\AndroidManifest.xml:2:1-114:12
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\172f3d05dd5063aa7c4a80fe92390979\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\551f1531f63d2ad56e7e8b0cd2bcd528\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\a950acd2a26deb9b35cfa55a1f85c0ab\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\2da12efb0e27f69f754de93f6555a7ca\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\246ebfed2d955c3833a0534ef8d099ee\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\1d19429aec228df1ca034f4ce9028c76\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\2b0dfa7f49c65c2b2e32ecb3face35c3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\21be38c286a54c45495a261b6175eb4a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\71ff737e97cbadffcd55655f8a085722\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\5290fc7ab41723bd206bfd9bed014ef1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9d5a00bb143f5d82121a43e9366685f5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\8e590658e389797bf39c2e8330c67316\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\84a70c963ec65b9a451408b05f1c4b79\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9b08df61823fb1fba198eb0d28489cbf\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\e8b3c3d85d760e7ea070b02cc72c9440\AndroidManifest.xml:17:1-25:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\02593ac650fe08314ac666f8fbdb7425\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\52df945d2fc645955cbc10e31f585c9b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9edc095d172625b46d858c95a43b8995\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\3f221d1a4c85e27149d2212a2d544fdd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\2cd9e8dbffdafc504981b31452e49fd8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\a6c0f9b431a0f2a86108e73383ebdea7\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\fcc6b14cd2005a2cb0522820b82a0021\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\8801fc0af0a9da1ff0d048bc9ed7dd51\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\bc3b1846f7ab156c965e22ee61d8a1ef\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\124cf661d9fe55159742d46341a4d74d\AndroidManifest.xml:17:1-22:12
+INJECTED from E:\work\xunfei\MyApplication\speechDemo\src\main\AndroidManifest.xml:2:1-114:12
+INJECTED from E:\work\xunfei\MyApplication\speechDemo\src\main\AndroidManifest.xml:2:1-114:12
+INJECTED from E:\work\xunfei\MyApplication\speechDemo\src\main\AndroidManifest.xml:2:1-114:12
+	package
+		ADDED from E:\work\xunfei\MyApplication\speechDemo\src\main\AndroidManifest.xml:3:5-36
+		INJECTED from E:\work\xunfei\MyApplication\speechDemo\src\main\AndroidManifest.xml
+		INJECTED from E:\work\xunfei\MyApplication\speechDemo\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\work\xunfei\MyApplication\speechDemo\src\main\AndroidManifest.xml:5:5-40
+		INJECTED from E:\work\xunfei\MyApplication\speechDemo\src\main\AndroidManifest.xml
+		INJECTED from E:\work\xunfei\MyApplication\speechDemo\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\work\xunfei\MyApplication\speechDemo\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from E:\work\xunfei\MyApplication\speechDemo\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from E:\work\xunfei\MyApplication\speechDemo\src\main\AndroidManifest.xml
+		INJECTED from E:\work\xunfei\MyApplication\speechDemo\src\main\AndroidManifest.xml
+application
+ADDED from E:\work\xunfei\MyApplication\speechDemo\src\main\AndroidManifest.xml:7:5-96:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9b08df61823fb1fba198eb0d28489cbf\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9b08df61823fb1fba198eb0d28489cbf\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\e8b3c3d85d760e7ea070b02cc72c9440\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\e8b3c3d85d760e7ea070b02cc72c9440\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9b08df61823fb1fba198eb0d28489cbf\AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from E:\work\xunfei\MyApplication\speechDemo\src\main\AndroidManifest.xml:10:9-31
+	android:icon
+		ADDED from E:\work\xunfei\MyApplication\speechDemo\src\main\AndroidManifest.xml:8:9-38
+	android:name
+		ADDED from E:\work\xunfei\MyApplication\speechDemo\src\main\AndroidManifest.xml:9:9-33
+activity#com.iflytek.voicedemo.MainActivity
+ADDED from E:\work\xunfei\MyApplication\speechDemo\src\main\AndroidManifest.xml:11:9-22:20
+	android:screenOrientation
+		ADDED from E:\work\xunfei\MyApplication\speechDemo\src\main\AndroidManifest.xml:16:13-49
+	android:label
+		ADDED from E:\work\xunfei\MyApplication\speechDemo\src\main\AndroidManifest.xml:15:13-35
+	android:configChanges
+		ADDED from E:\work\xunfei\MyApplication\speechDemo\src\main\AndroidManifest.xml:13:13-133
+	android:icon
+		ADDED from E:\work\xunfei\MyApplication\speechDemo\src\main\AndroidManifest.xml:14:13-42
+	android:name
+		ADDED from E:\work\xunfei\MyApplication\speechDemo\src\main\AndroidManifest.xml:12:13-62
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\work\xunfei\MyApplication\speechDemo\src\main\AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from E:\work\xunfei\MyApplication\speechDemo\src\main\AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from E:\work\xunfei\MyApplication\speechDemo\src\main\AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\work\xunfei\MyApplication\speechDemo\src\main\AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from E:\work\xunfei\MyApplication\speechDemo\src\main\AndroidManifest.xml:20:27-74
+activity#com.iflytek.speech.setting.TtsSettings
+ADDED from E:\work\xunfei\MyApplication\speechDemo\src\main\AndroidManifest.xml:23:9-24:20
+	android:name
+		ADDED from E:\work\xunfei\MyApplication\speechDemo\src\main\AndroidManifest.xml:23:19-72
+activity#com.iflytek.speech.setting.IatSettings
+ADDED from E:\work\xunfei\MyApplication\speechDemo\src\main\AndroidManifest.xml:25:9-26:20
+	android:name
+		ADDED from E:\work\xunfei\MyApplication\speechDemo\src\main\AndroidManifest.xml:25:19-72
+activity#com.iflytek.voicedemo.IatDemo
+ADDED from E:\work\xunfei\MyApplication\speechDemo\src\main\AndroidManifest.xml:27:9-31:20
+	android:screenOrientation
+		ADDED from E:\work\xunfei\MyApplication\speechDemo\src\main\AndroidManifest.xml:30:13-49
+	android:configChanges
+		ADDED from E:\work\xunfei\MyApplication\speechDemo\src\main\AndroidManifest.xml:29:13-133
+	android:name
+		ADDED from E:\work\xunfei\MyApplication\speechDemo\src\main\AndroidManifest.xml:28:13-57
+activity#com.iflytek.voicedemo.AsrDemo
+ADDED from E:\work\xunfei\MyApplication\speechDemo\src\main\AndroidManifest.xml:32:9-36:20
+	android:screenOrientation
+		ADDED from E:\work\xunfei\MyApplication\speechDemo\src\main\AndroidManifest.xml:35:13-49
+	android:configChanges
+		ADDED from E:\work\xunfei\MyApplication\speechDemo\src\main\AndroidManifest.xml:34:13-133
+	android:name
+		ADDED from E:\work\xunfei\MyApplication\speechDemo\src\main\AndroidManifest.xml:33:13-57
+activity#com.iflytek.voicedemo.TtsDemo
+ADDED from E:\work\xunfei\MyApplication\speechDemo\src\main\AndroidManifest.xml:37:9-41:20
+	android:screenOrientation
+		ADDED from E:\work\xunfei\MyApplication\speechDemo\src\main\AndroidManifest.xml:40:13-49
+	android:configChanges
+		ADDED from E:\work\xunfei\MyApplication\speechDemo\src\main\AndroidManifest.xml:39:13-133
+	android:name
+		ADDED from E:\work\xunfei\MyApplication\speechDemo\src\main\AndroidManifest.xml:38:13-57
+activity#com.iflytek.voicedemo.IseDemo
+ADDED from E:\work\xunfei\MyApplication\speechDemo\src\main\AndroidManifest.xml:42:9-46:20
+	android:screenOrientation
+		ADDED from E:\work\xunfei\MyApplication\speechDemo\src\main\AndroidManifest.xml:45:13-49
+	android:configChanges
+		ADDED from E:\work\xunfei\MyApplication\speechDemo\src\main\AndroidManifest.xml:44:13-133
+	android:name
+		ADDED from E:\work\xunfei\MyApplication\speechDemo\src\main\AndroidManifest.xml:43:13-57
+activity#com.iflytek.voicedemo.vocalverify.VocalVerifyDemo
+ADDED from E:\work\xunfei\MyApplication\speechDemo\src\main\AndroidManifest.xml:47:9-51:20
+	android:screenOrientation
+		ADDED from E:\work\xunfei\MyApplication\speechDemo\src\main\AndroidManifest.xml:50:13-49
+	android:configChanges
+		ADDED from E:\work\xunfei\MyApplication\speechDemo\src\main\AndroidManifest.xml:49:13-133
+	android:name
+		ADDED from E:\work\xunfei\MyApplication\speechDemo\src\main\AndroidManifest.xml:48:13-77
+activity#com.iflytek.voicedemo.faceonline.OnlineFaceDemo
+ADDED from E:\work\xunfei\MyApplication\speechDemo\src\main\AndroidManifest.xml:52:9-56:20
+	android:screenOrientation
+		ADDED from E:\work\xunfei\MyApplication\speechDemo\src\main\AndroidManifest.xml:55:13-49
+	android:configChanges
+		ADDED from E:\work\xunfei\MyApplication\speechDemo\src\main\AndroidManifest.xml:54:13-133
+	android:name
+		ADDED from E:\work\xunfei\MyApplication\speechDemo\src\main\AndroidManifest.xml:53:13-75
+activity#com.iflytek.voicedemo.IdentifyGroup.GroupManagerActivity
+ADDED from E:\work\xunfei\MyApplication\speechDemo\src\main\AndroidManifest.xml:57:9-61:20
+	android:screenOrientation
+		ADDED from E:\work\xunfei\MyApplication\speechDemo\src\main\AndroidManifest.xml:60:13-49
+	android:configChanges
+		ADDED from E:\work\xunfei\MyApplication\speechDemo\src\main\AndroidManifest.xml:59:13-133
+	android:name
+		ADDED from E:\work\xunfei\MyApplication\speechDemo\src\main\AndroidManifest.xml:58:13-84
+activity#com.iflytek.voicedemo.IdentifyGroup.FaceIdentifyActivity
+ADDED from E:\work\xunfei\MyApplication\speechDemo\src\main\AndroidManifest.xml:62:9-66:20
+	android:screenOrientation
+		ADDED from E:\work\xunfei\MyApplication\speechDemo\src\main\AndroidManifest.xml:65:13-49
+	android:configChanges
+		ADDED from E:\work\xunfei\MyApplication\speechDemo\src\main\AndroidManifest.xml:64:13-133
+	android:name
+		ADDED from E:\work\xunfei\MyApplication\speechDemo\src\main\AndroidManifest.xml:63:13-84
+activity#com.iflytek.voicedemo.IdentifyGroup.VocalIdentifyActivity
+ADDED from E:\work\xunfei\MyApplication\speechDemo\src\main\AndroidManifest.xml:67:9-71:20
+	android:screenOrientation
+		ADDED from E:\work\xunfei\MyApplication\speechDemo\src\main\AndroidManifest.xml:70:13-49
+	android:configChanges
+		ADDED from E:\work\xunfei\MyApplication\speechDemo\src\main\AndroidManifest.xml:69:13-133
+	android:name
+		ADDED from E:\work\xunfei\MyApplication\speechDemo\src\main\AndroidManifest.xml:68:13-85
+activity#com.iflytek.voicedemo.IdentifyGroup.ResultIdentifyActivity
+ADDED from E:\work\xunfei\MyApplication\speechDemo\src\main\AndroidManifest.xml:72:9-76:20
+	android:screenOrientation
+		ADDED from E:\work\xunfei\MyApplication\speechDemo\src\main\AndroidManifest.xml:75:13-49
+	android:configChanges
+		ADDED from E:\work\xunfei\MyApplication\speechDemo\src\main\AndroidManifest.xml:74:13-133
+	android:name
+		ADDED from E:\work\xunfei\MyApplication\speechDemo\src\main\AndroidManifest.xml:73:13-86
+activity#com.iflytek.speech.setting.IseSettings
+ADDED from E:\work\xunfei\MyApplication\speechDemo\src\main\AndroidManifest.xml:77:9-81:20
+	android:screenOrientation
+		ADDED from E:\work\xunfei\MyApplication\speechDemo\src\main\AndroidManifest.xml:80:13-49
+	android:configChanges
+		ADDED from E:\work\xunfei\MyApplication\speechDemo\src\main\AndroidManifest.xml:79:13-133
+	android:name
+		ADDED from E:\work\xunfei\MyApplication\speechDemo\src\main\AndroidManifest.xml:78:13-66
+activity#com.iflytek.speech.setting.UrlSettings
+ADDED from E:\work\xunfei\MyApplication\speechDemo\src\main\AndroidManifest.xml:82:9-86:20
+	android:screenOrientation
+		ADDED from E:\work\xunfei\MyApplication\speechDemo\src\main\AndroidManifest.xml:85:13-49
+	android:configChanges
+		ADDED from E:\work\xunfei\MyApplication\speechDemo\src\main\AndroidManifest.xml:84:13-133
+	android:name
+		ADDED from E:\work\xunfei\MyApplication\speechDemo\src\main\AndroidManifest.xml:83:13-66
+meta-data#IFLYTEK_APPKEY
+ADDED from E:\work\xunfei\MyApplication\speechDemo\src\main\AndroidManifest.xml:88:9-90:42
+	android:value
+		ADDED from E:\work\xunfei\MyApplication\speechDemo\src\main\AndroidManifest.xml:90:13-29
+	android:name
+		ADDED from E:\work\xunfei\MyApplication\speechDemo\src\main\AndroidManifest.xml:89:13-42
+meta-data#IFLYTEK_CHANNEL
+ADDED from E:\work\xunfei\MyApplication\speechDemo\src\main\AndroidManifest.xml:91:9-93:44
+	android:value
+		ADDED from E:\work\xunfei\MyApplication\speechDemo\src\main\AndroidManifest.xml:93:13-41
+	android:name
+		ADDED from E:\work\xunfei\MyApplication\speechDemo\src\main\AndroidManifest.xml:92:13-43
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from E:\work\xunfei\MyApplication\speechDemo\src\main\AndroidManifest.xml:100:5-71
+	android:name
+		ADDED from E:\work\xunfei\MyApplication\speechDemo\src\main\AndroidManifest.xml:100:22-68
+uses-permission#android.permission.INTERNET
+ADDED from E:\work\xunfei\MyApplication\speechDemo\src\main\AndroidManifest.xml:101:5-67
+	android:name
+		ADDED from E:\work\xunfei\MyApplication\speechDemo\src\main\AndroidManifest.xml:101:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\work\xunfei\MyApplication\speechDemo\src\main\AndroidManifest.xml:102:5-79
+	android:name
+		ADDED from E:\work\xunfei\MyApplication\speechDemo\src\main\AndroidManifest.xml:102:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from E:\work\xunfei\MyApplication\speechDemo\src\main\AndroidManifest.xml:103:5-76
+	android:name
+		ADDED from E:\work\xunfei\MyApplication\speechDemo\src\main\AndroidManifest.xml:103:22-73
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from E:\work\xunfei\MyApplication\speechDemo\src\main\AndroidManifest.xml:104:5-79
+	android:name
+		ADDED from E:\work\xunfei\MyApplication\speechDemo\src\main\AndroidManifest.xml:104:22-76
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from E:\work\xunfei\MyApplication\speechDemo\src\main\AndroidManifest.xml:105:5-75
+	android:name
+		ADDED from E:\work\xunfei\MyApplication\speechDemo\src\main\AndroidManifest.xml:105:22-72
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from E:\work\xunfei\MyApplication\speechDemo\src\main\AndroidManifest.xml:106:5-79
+	android:name
+		ADDED from E:\work\xunfei\MyApplication\speechDemo\src\main\AndroidManifest.xml:106:22-76
+uses-permission#android.permission.READ_CONTACTS
+ADDED from E:\work\xunfei\MyApplication\speechDemo\src\main\AndroidManifest.xml:107:5-72
+	android:name
+		ADDED from E:\work\xunfei\MyApplication\speechDemo\src\main\AndroidManifest.xml:107:22-69
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\work\xunfei\MyApplication\speechDemo\src\main\AndroidManifest.xml:108:5-81
+	android:name
+		ADDED from E:\work\xunfei\MyApplication\speechDemo\src\main\AndroidManifest.xml:108:22-78
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from E:\work\xunfei\MyApplication\speechDemo\src\main\AndroidManifest.xml:109:2-70
+	android:name
+		ADDED from E:\work\xunfei\MyApplication\speechDemo\src\main\AndroidManifest.xml:109:19-67
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from E:\work\xunfei\MyApplication\speechDemo\src\main\AndroidManifest.xml:110:2-77
+	android:name
+		ADDED from E:\work\xunfei\MyApplication\speechDemo\src\main\AndroidManifest.xml:110:19-74
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from E:\work\xunfei\MyApplication\speechDemo\src\main\AndroidManifest.xml:112:5-81
+	android:name
+		ADDED from E:\work\xunfei\MyApplication\speechDemo\src\main\AndroidManifest.xml:112:22-78
+uses-sdk
+INJECTED from E:\work\xunfei\MyApplication\speechDemo\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\work\xunfei\MyApplication\speechDemo\src\main\AndroidManifest.xml
+INJECTED from E:\work\xunfei\MyApplication\speechDemo\src\main\AndroidManifest.xml
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\172f3d05dd5063aa7c4a80fe92390979\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\172f3d05dd5063aa7c4a80fe92390979\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\551f1531f63d2ad56e7e8b0cd2bcd528\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\551f1531f63d2ad56e7e8b0cd2bcd528\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\a950acd2a26deb9b35cfa55a1f85c0ab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\a950acd2a26deb9b35cfa55a1f85c0ab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\2da12efb0e27f69f754de93f6555a7ca\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\2da12efb0e27f69f754de93f6555a7ca\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\246ebfed2d955c3833a0534ef8d099ee\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\246ebfed2d955c3833a0534ef8d099ee\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\1d19429aec228df1ca034f4ce9028c76\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\1d19429aec228df1ca034f4ce9028c76\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\2b0dfa7f49c65c2b2e32ecb3face35c3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\2b0dfa7f49c65c2b2e32ecb3face35c3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\21be38c286a54c45495a261b6175eb4a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\21be38c286a54c45495a261b6175eb4a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\71ff737e97cbadffcd55655f8a085722\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\71ff737e97cbadffcd55655f8a085722\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\5290fc7ab41723bd206bfd9bed014ef1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\5290fc7ab41723bd206bfd9bed014ef1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9d5a00bb143f5d82121a43e9366685f5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9d5a00bb143f5d82121a43e9366685f5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\8e590658e389797bf39c2e8330c67316\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\8e590658e389797bf39c2e8330c67316\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\84a70c963ec65b9a451408b05f1c4b79\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\84a70c963ec65b9a451408b05f1c4b79\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9b08df61823fb1fba198eb0d28489cbf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9b08df61823fb1fba198eb0d28489cbf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\e8b3c3d85d760e7ea070b02cc72c9440\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\e8b3c3d85d760e7ea070b02cc72c9440\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\02593ac650fe08314ac666f8fbdb7425\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\02593ac650fe08314ac666f8fbdb7425\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\52df945d2fc645955cbc10e31f585c9b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\52df945d2fc645955cbc10e31f585c9b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9edc095d172625b46d858c95a43b8995\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9edc095d172625b46d858c95a43b8995\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\3f221d1a4c85e27149d2212a2d544fdd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\3f221d1a4c85e27149d2212a2d544fdd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\2cd9e8dbffdafc504981b31452e49fd8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\2cd9e8dbffdafc504981b31452e49fd8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\a6c0f9b431a0f2a86108e73383ebdea7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\a6c0f9b431a0f2a86108e73383ebdea7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\fcc6b14cd2005a2cb0522820b82a0021\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\fcc6b14cd2005a2cb0522820b82a0021\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\8801fc0af0a9da1ff0d048bc9ed7dd51\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\8801fc0af0a9da1ff0d048bc9ed7dd51\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\bc3b1846f7ab156c965e22ee61d8a1ef\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\bc3b1846f7ab156c965e22ee61d8a1ef\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\124cf661d9fe55159742d46341a4d74d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\124cf661d9fe55159742d46341a4d74d\AndroidManifest.xml:20:5-44
+INJECTED from E:\work\xunfei\MyApplication\speechDemo\src\main\AndroidManifest.xml
+INJECTED from E:\work\xunfei\MyApplication\speechDemo\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\work\xunfei\MyApplication\speechDemo\src\main\AndroidManifest.xml
+		ADDED from E:\work\xunfei\MyApplication\speechDemo\src\main\AndroidManifest.xml
+		INJECTED from E:\work\xunfei\MyApplication\speechDemo\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\work\xunfei\MyApplication\speechDemo\src\main\AndroidManifest.xml
+		ADDED from E:\work\xunfei\MyApplication\speechDemo\src\main\AndroidManifest.xml
+		INJECTED from E:\work\xunfei\MyApplication\speechDemo\src\main\AndroidManifest.xml

@@ -1,0 +1,4 @@
+#Wed Nov 13 11:01:31 CST 2019
+base.0=E\:\\work\\xunfei\\MyApplication\\speechDemo\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+path.0=classes.dex
+renamed.0=classes.dex
