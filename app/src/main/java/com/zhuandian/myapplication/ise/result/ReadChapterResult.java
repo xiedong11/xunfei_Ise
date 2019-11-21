@@ -13,10 +13,10 @@ import com.zhuandian.myapplication.ise.result.util.ResultFormatUtil;
  * @author iflytek
  * @date 2015年1月12日 下午5:04:14
  */
-public class ReadSentenceResult extends Result {
-	
-	public ReadSentenceResult() {
-		category = "read_sentence";
+public class ReadChapterResult extends Result {
+
+	public ReadChapterResult() {
+		category = "read_chapter";
 	}
 	
 	@Override
@@ -27,9 +27,6 @@ public class ReadSentenceResult extends Result {
 			buffer.append("[总体结果]\n")
 				.append("评测内容：" + content + "\n")
 				.append("朗读时长：" + time_len + "\n")
-				.append("总分：" + total_score + "\n\n")
-				.append("总分：" + fluency_score + "\n\n")
-				.append("总分：" + integrity_score + "\n\n")
 				.append("总分：" + total_score + "\n\n")
 				.append("[朗读详情]").append(ResultFormatUtil.formatDetails_CN(sentences));
 		} else {

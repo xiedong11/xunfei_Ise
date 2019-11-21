@@ -288,6 +288,8 @@ public class IseDemo extends Activity implements View.OnClickListener {
 		mIse.setParameter(SpeechConstant.KEY_SPEECH_TIMEOUT, speech_timeout);
 		mIse.setParameter(SpeechConstant.RESULT_LEVEL, result_level);
         mIse.setParameter(SpeechConstant.AUDIO_FORMAT_AUE,"opus");
+        mIse.setParameter("plev","0");
+
 		// 设置音频保存路径，保存音频格式支持pcm、wav，设置路径为sd卡请注意WRITE_EXTERNAL_STORAGE权限
 		mIse.setParameter(SpeechConstant.AUDIO_FORMAT,"wav");
 		mIse.setParameter(SpeechConstant.ISE_AUDIO_PATH, Environment.getExternalStorageDirectory().getAbsolutePath() + "/msc/ise.wav");

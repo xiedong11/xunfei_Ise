@@ -56,4 +56,13 @@ public class Result {
 	 * xml结果中的sentence标签
 	 */
 	public ArrayList<Sentence> sentences;
+
+
+	public float fluency_score;
+
+	public float integrity_score;
+
+	public float phone_score;
+
+	public float tone_score;
 }
